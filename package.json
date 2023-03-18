@@ -1,5 +1,22 @@
 {
-  "dependencies": {
-    "@openzeppelin/contracts": "^4.8.2"
+  "name": "ci-con-openzeppelin",
+  "version": "1.0.0",
+  "description": "Curso de desarrollo de contratos inteligentes con OpenZeppelin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidahoro2/CI-con-OpenZeppelin.git"
+  },
+  "author": "Victor Ome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidahoro2/CI-con-OpenZeppelin/issues"
+  },
+  "homepage": "https://github.com/vidahoro2/CI-con-OpenZeppelin#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
   }
 }
