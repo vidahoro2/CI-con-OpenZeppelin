@@ -18,5 +18,8 @@
   "homepage": "https://github.com/vidahoro2/CI-con-OpenZeppelin#readme",
   "devDependencies": {
     "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
   }
 }
